@@ -1,1 +1,1 @@
-# LCD
+# Lung Cancer Detection
