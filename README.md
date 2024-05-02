@@ -9,7 +9,7 @@ This repository contains the code and documentation for a lung histopathology cl
 - Ensemble stacking technique combines features from different color models for classification.
 - Achieves high classification accuracy of 99.80% on a publicly available lung histopathology dataset.
 
-![Flow Diagram](flow.jpeg)
+![Flow Diagram](flow.jpg)
 
 
 ## Structure
